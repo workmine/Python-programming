@@ -1,0 +1,5 @@
+firstName = input("Enter your first name: ")
+lastName = input("Enter your last name: ")
+age = int(input("Enter your age: "))
+print(type(age))
+print(f" my name is {firstName} {lastName} and I am {age} years old.")
