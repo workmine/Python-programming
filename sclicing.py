@@ -1,0 +1,10 @@
+ptr = "Suman Nayak"
+print(len(ptr))
+print(ptr[0])
+print(ptr[0:6])
+print(ptr[6:11])
+print(ptr[6:len(ptr)])
+print(ptr[0:])
+print(ptr[:11])
+print(ptr[:])
+print(ptr[-5:-1])

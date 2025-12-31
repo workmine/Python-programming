@@ -1,0 +1,8 @@
+#name = input("Enter your name:")
+#print("Welcome", name)
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+marks = input("Enter your marks: ")
+print("Welcome", name)
+print("Your age is", age)
+print("Your marks is", marks)
